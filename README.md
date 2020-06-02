@@ -1,2 +1,3 @@
 # training
-Personal training repo
+Personal training repo!
+
